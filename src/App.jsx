@@ -327,13 +327,13 @@ function App() {
               role="contentinfo"
             >
               <div className="flex gap-3 mb-0.5">
-                <a href="https://instagram.com/gowthamrdyy" target="_blank" rel="noopener noreferrer" aria-label="Instagram" className="hover:text-pink-500 text-base transition-colors">
+                <a href="https://instagram.com/_hari_pk_437" target="_blank" rel="noopener noreferrer" aria-label="Instagram" className="hover:text-pink-500 text-base transition-colors">
                   <Instagram size={16} />
                 </a>
-                <a href="https://github.com/gowthamrdyy" target="_blank" rel="noopener noreferrer" aria-label="GitHub" className="hover:text-gray-900 dark:hover:text-white text-base transition-colors">
+                <a href="https://github.com/prasannardyy" target="_blank" rel="noopener noreferrer" aria-label="GitHub" className="hover:text-gray-900 dark:hover:text-white text-base transition-colors">
                   <Github size={16} />
                 </a>
-                <a href="https://linkedin.com/in/gowthamrdyy" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn" className="hover:text-blue-700 text-base transition-colors">
+                <a href="https://linkedin.com/in/prasannardyy" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn" className="hover:text-blue-700 text-base transition-colors">
                   <Linkedin size={16} />
                 </a>
               </div>
