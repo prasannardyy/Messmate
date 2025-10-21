@@ -340,7 +340,7 @@ function App() {
               <div className="flex items-center gap-1">
                 <span>Made with</span>
                 <span className="text-red-500 text-sm">♥</span>
-                <span>Gowthamrdyy</span>
+                <span>Prasanna</span>
               </div>
             </footer>
           </FadeIn>
