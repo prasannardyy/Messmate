@@ -381,7 +381,7 @@ const SettingsSection = ({ className = '', menuData }) => {
             <div className="p-4 rounded-lg bg-gradient-to-r from-blue-50 to-cyan-50 dark:from-blue-900/20 dark:to-cyan-900/20 border border-blue-200 dark:border-blue-800">
               <div className="text-center">
                 <h4 className="font-semibold text-blue-900 dark:text-blue-100 text-lg">
-                  Made by PRASANNA KUMAR REDD
+                  Made by PRASANNA KUMAR REDDY
                 </h4>
                 <p className="text-sm text-blue-700 dark:text-blue-300 mt-1">
                   AIML Developer & Designer
