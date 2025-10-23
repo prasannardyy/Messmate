@@ -381,13 +381,13 @@ const SettingsSection = ({ className = '', menuData }) => {
             <div className="p-4 rounded-lg bg-gradient-to-r from-blue-50 to-cyan-50 dark:from-blue-900/20 dark:to-cyan-900/20 border border-blue-200 dark:border-blue-800">
               <div className="text-center">
                 <h4 className="font-semibold text-blue-900 dark:text-blue-100 text-lg">
-                  Made by Gowthamrdyy
+                  Made by PRASANNA KUMAR REDD
                 </h4>
                 <p className="text-sm text-blue-700 dark:text-blue-300 mt-1">
                   AIML Developer & Designer
                 </p>
                 <a
-                  href="https://linkedin.com/in/gowthamrdyy"
+                  href="https://www.linkedin.com/in/prasannardyy/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-block mt-3 px-4 py-2 bg-gradient-to-r from-blue-500 to-cyan-500 hover:from-blue-600 hover:to-cyan-600 text-white text-sm font-medium rounded-lg transition-all duration-200 transform hover:scale-105"
